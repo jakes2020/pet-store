@@ -1,6 +1,27 @@
-body{
-	background-color:#FFB3B3
+div {
+	background-color:#B3E3FF;
 }
+
+body{
+	background-color:#FFB3B3;
+}
+
+#store-name {
+	color: blue;
+}
+
 h2{
-	font: courier 
+	font: courier;
+}
+
+.individual-pet{
+	text-align: center;
+}
+
+#all-pets{
+	font:courier;
+}
+img{
+	height: 100px;
+	width: 100px;
 }
